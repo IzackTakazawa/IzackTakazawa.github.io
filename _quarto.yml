@@ -3,16 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "IzackTakazawa.github.io"
+  title: "Izack Takazawa"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: about
+      - href: hobbies.qmd
+        text: hobbies
+
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
