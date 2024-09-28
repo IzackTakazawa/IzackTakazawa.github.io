@@ -6,9 +6,18 @@ about:
   template: trestles
   image-width: 17em
   links: 
-    - text: Github
+    - icon: github
       href: https://github.com/IzackTakazawa
+      target: blank
+    - icon: instagram
+      href: https://www.instagram.com/
+      target: blank
+    - icon: X
+      href: https://x.com/
+    - text: Five Tool Profile
+      href: https://fivetool.org/players/66c49525-b72e-4e34-a09b-fef3c19152ca
     - text: Email
+      icon: envelope
       href: mailto:izack.takazawa@student.chaminade.edu
 ---
 

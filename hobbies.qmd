@@ -1,3 +1,17 @@
 ---
-title: "Hobbies"
+title: "Recruitment"
+image: media/Graduation_pic.jpg
+toc: true
+about:
+  template: trestles
+  image-width: 17em
+  links: 
+    - text: Five Tool
+      href: https://github.com/IzackTakazawa
+    - text: Perfect Game
+      href: mailto:izack.takazawa@student.chaminade.edu
+    - text: Instagram
+     # href:
+    - text: X
+     # href:
 ---
