@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Izack Takazawa",
     "section": "",
-    "text": "Hi\nMy name is Izack Takazawa, I am a student athlete at Chaminade University of Honolulu. I am a right handed pitcher studying Data Science and Visualization."
+    "text": "Hi\nMy name is Izack Takazawa, I am a student athlete at Chaminade University of Honolulu. I am a Data Science and Visualization major."
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "hobbies.html",
     "href": "hobbies.html",
-    "title": "Baseball",
+    "title": "Hobbies",
     "section": "",
-    "text": "Here it is again, but left-aligned and a little larger–just so you know these customizations are possible.\n\n\nVideo\n\n\n\n\nVideo\n\n\n\n\nVideo"
+    "text": "Video\n\n\n\n\nVideo\n\n\n\n\nVideo"
   }
 ]
