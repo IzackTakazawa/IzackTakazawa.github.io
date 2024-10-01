@@ -14,8 +14,6 @@ about:
       target: blank
     - icon: X
       href: https://x.com/
-    - text: Five Tool Profile
-      href: https://fivetool.org/players/66c49525-b72e-4e34-a09b-fef3c19152ca
     - text: Email
       icon: envelope
       href: mailto:izack.takazawa@student.chaminade.edu
@@ -23,4 +21,4 @@ about:
 
 Hi
 
-My name is Izack Takazawa, I am a student athlete at Chaminade University of Honolulu. I am a right handed pitcher studying Data Science and Visualization.
+My name is Izack Takazawa, I am a student athlete at Chaminade University of Honolulu. I am a Data Science and Visualization major.

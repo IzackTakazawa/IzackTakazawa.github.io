@@ -1,9 +1,8 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+I was born and raised in Honolulu, Hawaii. I attended 'Iolani School and attended St. Olaf College in Northfield Minnesota to further my academic and athletic career playing baseball. However, this past year I made the decision to transfer home to Chaminade University where I am currently studying Data Science and continuing to play baseball.
 
-```{r}
-1 + 1
-```
+I am

@@ -1,17 +1,17 @@
 ---
-title: "Recruitment"
+title: "Baseball"
 image: media/Graduation_pic.jpg
 toc: true
 about:
   template: trestles
   image-width: 17em
-  links: 
-    - text: Five Tool
-      href: https://github.com/IzackTakazawa
-    - text: Perfect Game
-      href: mailto:izack.takazawa@student.chaminade.edu
-    - text: Instagram
-     # href:
-    - text: X
-     # href:
+  #links: 
 ---
+
+Here it is again, but left-aligned and a little larger--just so you know these customizations are possible.
+
+![](images/Izack Takazawa 2023-2024 (1).mp4){fig-align="left"}
+
+![](images/Izack Takazawa 2023-2024.mp4){fig-align="center"}
+
+![](images/Izack Takazawa 2023-2024.mp4){fig-align="center"}
