@@ -1,6 +1,6 @@
 ---
 title: "Izack Takazawa"
-image: media/Graduation_pic.jpg
+image: images/IMG_5571_Original.jpg
 toc: true
 about:
   template: trestles
@@ -9,16 +9,33 @@ about:
     - icon: github
       href: https://github.com/IzackTakazawa
       target: blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/izack-takazawa-25b850330/
+      target: blank
     - icon: instagram
       href: https://www.instagram.com/
       target: blank
-    - icon: X
-      href: https://x.com/
     - text: Email
       icon: envelope
       href: mailto:izack.takazawa@student.chaminade.edu
 ---
 
-Hi
+Hi, my name is Izack Takazawa, and I am a student athlete at Chaminade University of Honolulu. I am a Data Science and Visualization major while continuing my athletic career as a right-handed pitcher for the Silversword baseball team. I have a sister who currently is a Sophmore at Iolani School and also plays softball. After high school I attended St. Olaf College in Northfield, MN to further my academic and athletic career, but chose to transfer home after just one year.
 
-My name is Izack Takazawa, I am a student athlete at Chaminade University of Honolulu. I am a Data Science and Visualization major.
+## Education
+
+Iolani School \| Honolulu, Hawaii
+
+St. Olaf College \| Northfield, Minnesota
+
+## Baseball
+
+[Iolani School - Varsity Baseball - 2023 - Izack Takazawa](https://scoringlive.com/baseball/players.php?team=IOL&player=24&pid=13262&cseason=2022){target="\_blank"}
+
+-   2023 ILH Honorable Mention
+
+-   Team Captain
+
+[St Olaf College - Baseball - 2024 - Izack Takazawa](https://athletics.stolaf.edu/sports/baseball/roster/izack-takazawa/12971#:~:text=Izack%20Takazawa%20(41)%20Pitcher%20-%20AT%20ILOANI%20SCHOOL){target="\_blank"}
+
+[Chaminade University - Baseball - 2025 - Izack Takazawa](https://goswords.com/sports/baseball/roster/izack-takazawa/6692#:~:text=2025%20Baseball%20Roster.%20Choose%20a%20Player:%20Izack%20Takazawa.){target="\_blank"}
