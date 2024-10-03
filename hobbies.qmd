@@ -1,5 +1,5 @@
 ---
-title: "Hobbies"
+title: "Baseball"
 image: images/Pitching_pic.jpg
 toc: true
 about:
@@ -8,8 +8,8 @@ about:
   #links: 
 ---
 
+I am a right-handed pitcher (RHP).
+
 ![](media/IMG_4314.MOV){fig-align="center"}
 
 ![](images/Izack%20Takazawa%202023-2024.mp4){fig-align="center"}
-
-![](images/Izack%20Takazawa%202023-2024%20(1).mp4){fig-align="left"}

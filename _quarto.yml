@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: about
       - href: hobbies.qmd
-        text: Baseball
+        text: Hobbies
 
 
 format:
