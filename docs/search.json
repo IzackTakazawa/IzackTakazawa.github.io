@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I was born and raised in Honolulu, Hawaii. I attended ’Iolani School and attended St. Olaf College in Northfield Minnesota to further my academic and athletic career playing baseball. However, this past year I made the decision to transfer home to Chaminade University where I am currently studying Data Science and continuing to play baseball.\nI am\n##Family\n##Friends\n##Work"
+    "text": "I was born and raised in Honolulu, Hawaii. I attended ’Iolani School and attended St. Olaf College in Northfield Minnesota to further my academic and athletic career playing baseball. However, this past year I made the decision to transfer home to Chaminade University where I am currently studying Data Science and continuing to play baseball.\nI am"
   },
   {
     "objectID": "hobbies.html",
@@ -33,5 +33,26 @@
     "title": "Izack Takazawa",
     "section": "Baseball",
     "text": "Baseball\nIolani School - Varsity Baseball - 2023 - Izack Takazawa\n\n2023 ILH Honorable Mention\nTeam Captain\n\nSt Olaf College - Baseball - 2024 - Izack Takazawa\nChaminade University - Baseball - 2025 - Izack Takazawa"
+  },
+  {
+    "objectID": "about.html#family",
+    "href": "about.html#family",
+    "title": "About",
+    "section": "Family",
+    "text": "Family"
+  },
+  {
+    "objectID": "about.html#friends",
+    "href": "about.html#friends",
+    "title": "About",
+    "section": "Friends",
+    "text": "Friends"
+  },
+  {
+    "objectID": "about.html#extracurriculars",
+    "href": "about.html#extracurriculars",
+    "title": "About",
+    "section": "Extracurriculars",
+    "text": "Extracurriculars"
   }
 ]
