@@ -18,7 +18,7 @@ about:
     - text: Email
       icon: envelope
       href: mailto:izack.takazawa@student.chaminade.edu
-    - text: Izack Takazawa CS 200 Dashboard
+    - text: Izack Takazawa CS 201 Dashboard
       href: https://izacktakazawa.github.io/CS201_dashboard/
       target: blank
 ---
