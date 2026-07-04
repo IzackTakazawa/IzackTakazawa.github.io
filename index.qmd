@@ -18,27 +18,75 @@ about:
     - text: Email
       icon: envelope
       href: mailto:izack.takazawa@student.chaminade.edu
+    - text: Resume
+      icon: file-earmark-pdf
+      href: files/IzackTakazawa_Resume.pdf
+      target: blank
     - text: Izack Takazawa CS 201 Dashboard
       href: https://izacktakazawa.github.io/CS201_dashboard/
       target: blank
 ---
 
-Hi, my name is Izack Takazawa, and I am a student athlete at Chaminade University of Honolulu. I am a Data Science and Visualization major while continuing my athletic career as a right-handed pitcher for the Silversword baseball team. I have a sister who currently is a Sophmore at Iolani School and also plays softball. After high school I attended St. Olaf College in Northfield, MN to further my academic and athletic career, but chose to transfer home after just one year.
+Hi, my name is Izack Takazawa, and I am a student at Chaminade University of Honolulu. I am double majoring in Data Science and Visualization & Computer science with a concentration in Health Informatics and Analytics. After high school, I attended St. Olaf College in Northfield, MN, to further my academic and athletic career, but chose to transfer home after just one year, where I was a right-handed pitcher for the silverswords the last two years.
+
+I'm passionate about using data science and AI to create social impact within my community as much of my current work focuses on environmental and public health applications across Hawaii.
+
 
 ## Education
 
-Iolani School \| Honolulu, Hawaii
+**Chaminade University of Honolulu** — B.S. Data Science, Concentration in Health Informatics and Analytics \
+*August 2024 – May 2027 (Expected)* \
+Dean's List (2024–Present, 4.0 GPA)
 
-St. Olaf College \| Northfield, Minnesota
+**St. Olaf College** — Coursework in Biology \
+*August 2023 – May 2024*
+
+**Iolani School** — High School Diploma \
+*K–12, Graduated June 2023*
+
+## Technical Experience & Research
+
+**NSF/LCCF Advanced Computing Student Collaborative (ACSC)**, Texas Advanced Computing Center (TACC) \
+*November 2025* \
+Leveraging TACC supercomputers in Python to investigate how elevated PM2.5 air pollution impacts respiratory health and chronic illness rates among Hawaii residents, especially those near Kīlauea volcano, using sensor and API datasets from 2015–2025.
+
+**EPSCoR/SCIPE Undergraduate Fellow**, Chaminade University \
+*August 2025 – Present* \
+Engineering a dynamic data dashboard (Particulate Load Index) in Python and R to quantify human exposure to airborne and ingestible particulates — including vog, plastics, and carbon emissions — across Hawai'i. Delivered PM2.5 visualizations to university faculty and stakeholders.
+
+**NSF ALL-SPICE Alliance Summer Data Science Institute**, Chaminade University \
+*May 2025 – June 2025* \
+Applied unsupervised learning (PCA, K-means, t-SNE) with Oxford Nanopore sequencing to analyze DNA methylation changes linked to inflammatory biomarkers (TNF-α, IL-6, IL-1β). Presented 10+ visualizations on dietary-driven epigenetic trends.
+
+**Independent Research** — Glutamic Acid Concentrations in Long-Cooked Proteins \
+*September 2023 – Present* \
+Presented at the Hawaii State Science Fair; used spectrophotometric analysis to show that prolonged cooking significantly increases glutamate concentration in beef, chicken, and pork.
+
+## Skills
+
+**Programming & Tools:** Python, R, SQL, TACC Supercomputers, Jupyter Lab/Notebook, RStudio, Tableau, Shiny, MySQL, GitHub
+
+**Technical Skills:** Data Mining & Cleaning, Data Visualization, High Performance Computing, Machine Learning, Statistical Modeling, GIS, Dashboard Development, Website Development
+
+**Soft Skills:** Leadership, Collaboration, Critical Thinking, Communication, Time Management, Performance Under Pressure
+
+## Certifications & Honors
+
+- NSF Alliance Certificate in UN Sustainable Development Goals Analytics in R (2025)
+- Certificate of Excellence, SPICE Game Health Award (2025)
+- Undergraduate Research Fellowship (2025–Present)
+- Dean's List (2024–Present, 4.0 GPA)
+- ILH Honorable Mention — Baseball (2023)
 
 ## Baseball
 
-[Iolani School - Varsity Baseball - 2023 - Izack Takazawa](https://scoringlive.com/baseball/players.php?team=IOL&player=24&pid=13262&cseason=2022){target="_blank"}
+[Chaminade University — Baseball Roster, 2025](https://goswords.com/sports/baseball/roster/izack-takazawa/6692){target="_blank"}
 
--   2023 ILH Honorable Mention
+[St. Olaf College — Baseball Roster, 2024](https://athletics.stolaf.edu/sports/baseball/roster/izack-takazawa/12971){target="_blank"}
 
--   Team Captain
+[Iolani School — Varsity Baseball, 2023](https://scoringlive.com/baseball/players.php?team=IOL&player=24&pid=13262&cseason=2022){target="_blank"}
 
-[St Olaf College - Baseball - 2024 - Izack Takazawa](https://athletics.stolaf.edu/sports/baseball/roster/izack-takazawa/12971#:~:text=Izack%20Takazawa%20(41)%20Pitcher%20-%20AT%20ILOANI%20SCHOOL){target="_blank"}
-
-[Chaminade University - Baseball - 2025 - Izack Takazawa](https://goswords.com/sports/baseball/roster/izack-takazawa/6692#:~:text=2025%20Baseball%20Roster.%20Choose%20a%20Player:%20Izack%20Takazawa.){target="_blank"}
+- Team Captain, Iolani School (2023)
+- ILH Honorable Mention (2023)
+- NCAA Division II & III Student-Athlete, balancing 25+ hrs/week of training and travel with a 4.0 GPA
+- Youth Baseball Coach & Mentor, Honolulu, HI (Jan 2021 – Present)
